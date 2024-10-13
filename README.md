@@ -1,2 +1,2 @@
 # python-django
-Here the project created using python and djsngo
+Here the project created using python and django
